@@ -1,5 +1,5 @@
 # .github
-# Seydou Mané
+# Seydou Mané 
 
 ## Senior Software Engineer | Solution Architect | AI Automation Consultant
 
