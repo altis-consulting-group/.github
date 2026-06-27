@@ -41,31 +41,6 @@ Our goal is to design **robust, scalable and intelligent systems** that solve re
 - Hexagonal Architecture / Clean Architecture / Domain-Driven Design (DDD)
 
 ### ⚙️ Backend Engineering
-### 🛠️ Our Tech Stack
-
-#### Backend & Architecture
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Quarkus](https://shields.io)
-![Python](https://shields.io)
-![Django REST](https://shields.io)
-![FastAPI](https://shields.io)
-
-#### Frontend & Mobile
-![Angular](https://shields.io)
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![React Native](https://shields.io)
-![Flutter](https://shields.io)
-![Ionic](https://shields.io)
-
-#### AI, Databases & Cloud
-![OpenAI](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![Kafka](https://shields.io)
-
 - **Enterprise:** Java / Spring Boot / Quarkus / Spring Security (OAuth2, Keycloak)
 - **AI & Data:** Python / Django REST / Flask / FastAPI
 
