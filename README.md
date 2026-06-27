@@ -5,17 +5,17 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Us
 
-I am a Software Engineer and Consultant specialized in designing and building **scalable enterprise systems** and **AI-powered automation solutions**.
+We are a team of **Senior Software Engineers, Architects, and Consultants** specialized in designing and building **scalable enterprise systems** and **AI-powered automation solutions**.
 
-I help organizations:
+We help organizations:
 - modernize their software architecture
 - build scalable SaaS platforms
 - automate business processes using AI
 - design cloud-native and distributed systems
 
-My approach combines:
+Our unified approach combines:
 - Software Architecture
 - Cloud Engineering
 - AI Integration
@@ -25,7 +25,7 @@ My approach combines:
 
 ## 🎯 Mission
 
-My goal is to design **robust, scalable and intelligent systems** that solve real business problems:
+Our goal is to design **robust, scalable and intelligent systems** that solve real business problems:
 
 - Reduce operational costs through automation
 - Improve system scalability and performance
@@ -34,31 +34,24 @@ My goal is to design **robust, scalable and intelligent systems** that solve rea
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Expertise & Stack
 
-### 🏗 Software Architecture
-- Microservices Architecture
-- Hexagonal / Clean Architecture
-- Domain-Driven Design (DDD)
-- Event-Driven Systems
-- API Design & System Design
-
----
+### 🏗️ Software Architecture
+- Microservices & Event-Driven Systems (Kafka)
+- Hexagonal Architecture / Clean Architecture / Domain-Driven Design (DDD)
 
 ### ⚙️ Backend Engineering
-- Java / Spring Boot
-- Spring Security (JWT, OAuth2, Keycloak)
-- RESTful API Design
-- Distributed Systems Design
-- Spring AI (LLM integration)
+- **Enterprise:** Java / Spring Boot / Quarkus / Spring Security (OAuth2, Keycloak)
+- **AI & Data:** Python / Django REST / Flask / FastAPI
 
----
+### 🎨 Frontend & Mobile Engineering
+- **Web:** Angular (Enterprise apps), React, TypeScript, RxJS
+- **Mobile:** React Native, Flutter, Ionic
 
-### 🎨 Frontend Engineering
-- Angular (Enterprise applications)
-- TypeScript
-- Component-based architecture
-- Reactive programming (RxJS)
+### 🤖 AI, RAG & Automation
+- Enterprise AI integration (Spring AI & Python LLM Frameworks)
+- Retrieval Augmented Generation (RAG) & Vector Databases (pgvector, Pinecone)
+- AI-driven workflow automation & Intelligent Document Processing
 
 ---
 
@@ -83,111 +76,23 @@ My goal is to design **robust, scalable and intelligent systems** that solve rea
 
 ### 🧠 AI Automation Platform
 An AI-powered enterprise platform designed to automate business workflows using LLMs and RAG architecture.
+* **Key capabilities:** Intelligent document processing, RAG-based knowledge retrieval, multi-agent engine.
+* **Tech Stack:** Spring Boot • Spring AI • Python (FastAPI) • Angular • PostgreSQL • Docker
+* 🔗 **[Explore Repository](https://github.com)** | 🌐 **[Live Demo](https://...)**
 
-**Key capabilities:**
-- Intelligent document processing
-- AI chat assistant for business data
-- RAG-based knowledge retrieval
-- Workflow automation engine
-
-**Tech Stack:**
-Spring Boot • Spring AI • Angular • PostgreSQL • Docker
-
----
-
-### 🏢 Enterprise SaaS Platform
-A multi-tenant SaaS architecture designed for scalability and enterprise usage.
-
-**Key capabilities:**
-- Multi-tenant architecture
-- Role-based access control (RBAC)
-- Subscription-ready design
-- Modular microservices structure
-
-**Tech Stack:**
-Spring Boot • Angular • PostgreSQL • Kubernetes
+### 📱 Enterprise SaaS & Mobile Ecosystem
+A multi-tenant SaaS architecture designed for scalability, featuring an advanced web dashboard and its cross-platform mobile application.
+* **Key capabilities:** Multi-tenant database separation, Role-based access control (RBAC), offline-first mobile sync.
+* **Tech Stack:** Spring Boot • Angular • React Native / Flutter • PostgreSQL • Kubernetes
+* 🔗 **[Explore Repository](https://github.com)**
 
 ---
 
-### 🔐 Identity Management System
-Centralized authentication and authorization system for distributed applications.
+## 🧱 Architecture & Development Philosophy
 
-**Key capabilities:**
-- OAuth2 / OpenID Connect
-- JWT-based authentication
-- Keycloak integration
-- Secure API gateway architecture
+- **Production-Ready Systems, Not Demos:** We build robust, testable, and maintainable code.
+- **Strict Separation of Concerns:** We enforce Clean and Hexagonal Architecture to isolate core business domains from infrastructure.
+- **Value-Driven Engineering:** We align technical decisions directly with business ROI and cost optimization.
 
-**Tech Stack:**
-Spring Security • Keycloak • Spring Boot
-
----
-
-### 📊 Trading Platform
-Event-driven system for processing financial market data and executing trading strategies.
-
-**Key capabilities:**
-- Real-time data processing
-- Event-driven architecture
-- Strategy execution engine
-- Risk management modules
-
-**Tech Stack:**
-Spring Boot • Kafka • Microservices
-
----
-
-## 🧱 Architecture Principles
-
-I strongly apply the following principles in my systems:
-
-- Clean Code & Maintainability
-- Separation of Concerns
-- Scalability & Resilience
-- Domain-Driven Design (DDD)
-- Cloud-Native Design
-- Observability by design
-
----
-
-## 🛠 Development Philosophy
-
-I believe in:
-
-- Building production-ready systems, not demos
-- Designing before coding
-- Automating everything possible
-- Writing maintainable and testable code
-- Thinking in terms of business value, not just technology
-
----
-
-## 📈 Current Focus
-
-I am currently focusing on:
-
-- AI-powered enterprise applications
-- Spring AI & LLM integration
-- RAG-based architectures
-- Cloud-native microservices systems
-- Advanced system design & consulting practices
-
----
-
-## 📫 Open to Work
-
-I am open to opportunities in:
-
-- Software Architecture
-- AI Automation Consulting
-- Cloud & Platform Engineering
-- Enterprise System Design
-- Technical Consulting & Leadership
-
----
-
-## ⚡ Motto
-
-> "Good software solves problems. Great architecture scales solutions."
 
 ---
